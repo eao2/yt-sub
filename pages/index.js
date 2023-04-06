@@ -16,7 +16,7 @@ export default function product() {
     <>
       <Head>
         <title>
-          Nyamaa bagshiin biy daaltnd zoriulav
+          YT subtitle
         </title>
       </Head>
       <center>
